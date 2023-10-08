@@ -5,5 +5,6 @@ Este repositório contém uma página web simples sobre alguns dos personagens d
 O projeto inclui HTML, CSS e JavaScript para criar uma interface dinâmica onde os detalhes dos personagens são exibidos quando os botões correspondentes são clicados.
 
 ## Capturas de Tela
-![Captura de tela da página inicial](img/img1.png)
+![Captura de tela da página inicial](img/img.png)
 *Página Inicial*
+![Captura de tela da página inicial](img2/img.png)
